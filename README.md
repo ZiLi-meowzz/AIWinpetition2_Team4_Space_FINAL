@@ -1,5 +1,5 @@
 # AIWinpetition2_Team4_Space_FINAL
-The significant of the problem:
+The significance of the problem:
 
 According to the BBC science focus website, the density of the junk may become so great that it could hinder our ability to use weather satellites, and hence to monitor weather changes caused by our own ground-based pollution. This will adversely impact us as we may not be able to clear up the pollution quickly. For example, China's 2007 anti-satellite test, which used a missile to destroy an old weather satellite, added more than 3,500 pieces of large, trackable debris and many more smaller debris to the debris problem. This is only one of the problems that are caused by space debris. 
 
