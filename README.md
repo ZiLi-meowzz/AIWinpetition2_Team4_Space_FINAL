@@ -13,9 +13,13 @@ Object detection:
 
 Using supervised learning, we can input a huge amount of data regarding the properties of common artificial debris found, so as to train the identifier to identify whether the type of debris is 'useful' ,'useless' or ‘unknown’. Most artificial debris in space comes from disposed or broken spacecraft such as spaceships, satellites. 
 Useful debris means items that can bring more benefits than harm to our planet. These debris can be recycled to form meaningful items, or analysed to obtain extra information about that particular item which could benefit science. These examples of useful debris include fragments of airplane wings and bolts. 
+
 Useless debris are generally items that are unnecessary, can bring more harm than benefit to the Earth, or cannot be reused. These examples include small paint fragments and garbage trash bags. 
+
 Unknown debris are items that the debris identifier and mankind are unaware of. These items could be brought back to Earth to be examined and researched. 
-Then unsupervised learning can be applied to train the identifier to find a pattern of which debris is 'useful', 'useless' and 'unknown'. Next, we will train and test the identifier to identify some data that is unknown to them and then use a confusion matrix to predict our model accuracy. 
+Then unsupervised learning can be applied to train the identifier to find a pattern of which debris is 'useful', 'useless' and 'unknown'. 
+
+Next, we will train and test the identifier to identify some data that is unknown to them and then use a confusion matrix to predict our model accuracy. 
 
 What does the identifier do:
 
